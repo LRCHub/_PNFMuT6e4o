@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hakujitsu",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-03-24T08:01:17.903012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "Rainych feat. Kururu",
+      "has_synced": true,
+      "path": "select/03_Hakujitsu_Rainych_feat._Kururu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/04_Hakujitsu_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "Rainych, Kururu",
+      "has_synced": true,
+      "path": "select/05_Hakujitsu_Rainych,_Kururu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白日 - Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_白日_-_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白日 - Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_白日_-_Hakujitsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hakujitsu (album version)",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/08_Hakujitsu_(album_version)_RIP_SLYME.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hakujitsu (10 years version)",
+      "artist": "Radwimps",
+      "has_synced": false,
+      "path": "select/09_Hakujitsu_(10_years_version)_Radwimps.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "白日 - Hakujitsu",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/10_白日_-_Hakujitsu_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "白日 (10 years ver.) - Hakujitsu (10 years version)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_白日_(10_years_ver.)_-_Hakujitsu_(10_years_version)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hakujitsu (ALBUM VERSION)",
+      "artist": "Rip Slyme",
+      "has_synced": false,
+      "path": "select/12_Hakujitsu_(ALBUM_VERSION)_Rip_Slyme.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "Rip Slyme",
+      "has_synced": false,
+      "path": "select/13_Hakujitsu_Rip_Slyme.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hakujitsu 「白日」",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/14_Hakujitsu_「白日」_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hakujitsu",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/15_Hakujitsu_Uru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hakujitsu",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_Hakujitsu_King_Gnu.txt"
+    }
+  ]
+}
